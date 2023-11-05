@@ -1,0 +1,17 @@
+Vocabulary Analysis
+====================
+
+Lemmatized Text:
+Total Tokens: 3103
+Average Occurrences: 3.07
+Average Token Size: 6.26
+
+Porter Stemmer:
+Total Tokens: 2842
+Average Occurrences: 3.35
+Average Token Size: 5.65
+
+Snowball Stemmer:
+Total Tokens: 2814
+Average Occurrences: 3.38
+Average Token Size: 5.65
